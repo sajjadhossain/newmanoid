@@ -1,0 +1,8 @@
+{
+    "chromeWebSecurity": false,
+    "baseUrl": "http://sajjad.local:5173",
+    "supportFile": "./cypress/support/index",
+    "pluginsFile": "./cypress/plugins/index",
+    "screenshotsFolder": "./cypress/snapshots",
+    "trashAssetsBeforeRuns": true
+}
